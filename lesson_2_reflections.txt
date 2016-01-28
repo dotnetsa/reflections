@@ -5,4 +5,7 @@ It creates a .git folder (hidden), to save the versions of each commit.
 The staging area has the files that will be committed to the working directory. 
 All files don't need to be committed, but only the ones added to the staging area.
 
-3.
+3.How can you use the staging area to make sure you have one commit per logical change?
+compare staging area with the working directory
+
+4. 
