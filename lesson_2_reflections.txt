@@ -1,0 +1,2 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+It creates a .git folder (hidden), to save the versions of each commit.
