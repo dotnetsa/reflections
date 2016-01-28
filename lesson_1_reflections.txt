@@ -17,4 +17,7 @@ With git log you can get all the commited versions of files and with git diff yo
 6. How might using version control make you more confident to make changes that could break something?
 You can always revert back to the working version
 
-7. 
+7. Now that you have your workspace set up, what do you want to try using Git for?
+Development Code
+
+8. 
